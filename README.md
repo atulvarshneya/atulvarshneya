@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @atulvarshneya
 - 👀 I’m interested in Machine Learning as my job, and Quantum Computing as an area of interest
-- 🌱 I’m currently learning Quantum Computing
 - 👀 See my quantum computer simulator at https://github.com/QuantumSystems/quantum-computing
 - 📫 How to reach me https://www.linkedin.com/in/atulvarshneya/
 
